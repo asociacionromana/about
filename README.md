@@ -3,7 +3,7 @@
 ## Descripción de la Empresa
 La Asociación Romana de Ahorros y Préstamos (ARAP) surge en un momento crucial para suplir la necesidad de créditos y servicios financieros en la ciudad de La Romana. Fundada el 14 de agosto de 1963, está regulada por la Ley Monetaria y Financiera No. 183-02 y supervisada por la Superintendencia de Bancos y el Banco Central de la República Dominicana.
 
-Para más información, visita nuestra [página principal](https://www.arap.com.do/) o contáctanos al teléfono: **📞 (809) 123-4567**.
+Para más información, visita nuestra [página principal](https://www.arap.com.do/) o contáctanos al teléfono: **📞 (809) 556-5301**.
 
 ## 🎯 Misión
 Somos una institución de intermediación financiera que fomenta el ahorro para canalizarlo a las necesidades financieras de la sociedad, apoyada en un equipo humano confiable, con sentido ético y moral.
@@ -130,14 +130,14 @@ Para más información, visita nuestra web [Alcancía de la Alegría](https://ww
 ## 👔 Alta Dirección
 
 ### Miembros
-- **Carlos Saint-Hilaire:** Director de Gestión Integral de Riesgos
-- **Pablo Guerrero:** Director de Finanzas y Créditos
-- **Fidel Espinal Báez:** Director de TI
-- **Gildy Martínez:** Directora de Operaciones
-- **Paola Reyes Pilier:** Directora de Gestión Humana y Administración
-- **Bienvenida Jiménez:** Directora Auditoría Interna
-- **Amarelis García R.:** Directoera de Negocios
-- **Mirurgia Cabral Picel:** Directora de Legal y Cobros
+- 🔵 **Carlos Saint-Hilaire:** Director de Gestión Integral de Riesgos | [/in/csainth/](https://www.linkedin.com/in/csainth/)
+- 🔵 **Pablo Guerrero:** Director de Finanzas y Créditos | [/in/pablo-guerrero-186528127/](https://www.linkedin.com/in/pablo-guerrero-186528127/)
+- 🔵 **Fidel Espinal Báez:** Director de TI | [/in/frebespinal/](https://www.linkedin.com/in/frebespinal/)
+- 🔵 **Gildy Martínez:** Directora de Operaciones | [/in/gildy-martinez-5326446a/](https://www.linkedin.com/in/gildy-martinez-5326446a/)
+- 🔵 **Paola Reyes Pilier:** Directora de Gestión Humana y Administración | [/in/paola-reyes-pilier-619503129/](https://www.linkedin.com/in/paola-reyes-pilier-619503129/)
+- 🔵 **Bienvenida Jiménez:** Directora Auditoría Interna | [/in/bienvenida-jimenez-3b922a3a/](https://www.linkedin.com/in/bienvenida-jimenez-3b922a3a/)
+- 🔵 **Amarelis García R.:** Directoera de Negocios
+- 🔵 **Mirurgia Cabral Picel:** Directora de Legal y Cobros
   
 Para más información, visita nuestra [página de consejo de directores](https://www.arap.com.do/consejo-de-directores/).
 ---
