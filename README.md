@@ -24,16 +24,17 @@ Ser la asociación de ahorros y préstamos líder en toda la zona este del país
 
 ## 💰 Servicios
 
-### Sistema de Pagos al Instante (BCRD)
+### [Sistema de Pagos al Instante (BCRD)](https://www.arap.com.do/service/transferencias-lbtr/)
 Permite realizar pagos en pesos en un tiempo máximo de 15 minutos:
 - Pagos de préstamos
 - Transferencias entre cuentas
 - Pagos de tarjetas de crédito
+ 
 
-### Compra de Dólares
+### [Compra de Dólares](https://www.arap.com.do/service/compra-dolares/)
 🌐 Servicio con tasa competitiva disponible en todas nuestras oficinas y agencias.
 
-### Pago de Servicios
+### [Pago de Servicios](https://www.arap.com.do/service/pago-servicios/)
 🏢 Gestiona el pago de servicios de forma rápida y segura a través de nuestros canales digitales:
 - 🌐 Telecomunicaciones
 - 🔋 Compañías eléctricas
@@ -42,14 +43,12 @@ Permite realizar pagos en pesos en un tiempo máximo de 15 minutos:
 - 🎓 Universidades
 - 🎥 Servicios de telecable
 
-Para más información, visita nuestra [página de servicios](https://www.arap.com.do/servicios/).
 
-### Alcancía de la Alegría
+### [Alcancía de la Alegría](https://www.arap.com.do/service/alcancia-de-la-alegria/)
 🎁 Iniciativa para incentivar el ahorro en niños y adultos, con premios como artículos promocionales, dispositivos electrónicos y dinero en efectivo.
 
-Para más información, visita nuestra web [Alcancía de la Alegría](https://www.arap.com.do/service/alcancia-de-la-alegria/).
 
-### Banca Seguros
+### [Banca Seguros](https://www.arap.com.do/service/banca-seguros/)
 📚 Ofrecemos seguros para:
 - 🎮 Desempleo involuntario
 - 🏥 Incapacidad total o temporal
@@ -59,7 +58,7 @@ Para más información, visita nuestra web [Alcancía de la Alegría](https://ww
 
 ---
 
-## 🛍️ Directorio Departamental
+## 🛍️ [Directorio Departamental](https://www.arap.com.do/oficinas/)
 
 ### Oficina Principal - La Romana
 - **📍 Dirección:** Calle Francisco X. del Castillo Márquez No. 40, esq. Duarte. La Romana, R.D.
@@ -112,7 +111,7 @@ Para más información, visita nuestra web [Alcancía de la Alegría](https://ww
 
 ---
 
-## 👥 Consejo de Directores
+## 👥 [Consejo de Directores](https://www.arap.com.do/consejo-de-directores/)
 
 ### Miembros
 - **👑 Fernando A. Lluberes:** Presidente
@@ -126,8 +125,7 @@ Para más información, visita nuestra web [Alcancía de la Alegría](https://ww
 
 
 
-
-## 👔 Alta Dirección
+## 👔 [Alta Dirección](https://www.arap.com.do/consejo-de-directores/)
 
 ### Miembros
 - 🔵 **Carlos Saint-Hilaire:** Director de Gestión Integral de Riesgos | [/in/csainth/](https://www.linkedin.com/in/csainth/)
@@ -139,7 +137,6 @@ Para más información, visita nuestra web [Alcancía de la Alegría](https://ww
 - 🔵 **Amarelis García R.:** Directoera de Negocios
 - 🔵 **Mirurgia Cabral Picel:** Directora de Legal y Cobros
   
-Para más información, visita nuestra [página de consejo de directores](https://www.arap.com.do/consejo-de-directores/).
 ---
 
 Para más información, visita nuestra [página principal](https://www.arap.com.do/).
