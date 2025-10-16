@@ -12,13 +12,13 @@ Somos una institución de intermediación financiera que fomenta el ahorro para 
 Ser la asociación de ahorros y préstamos líder en toda la zona este del país, sustentada en una plataforma de servicios de intermediación financiera eficiente y competitiva.
 
 ## ✨ Valores
-- 🔒 Confianza
-- 🔍 Integridad
-- 💖 Solidaridad
-- ❤️ Compromiso
-- 📦 Transparencia
-- 🙏 Vocación de servicio
-- 🏛️ Responsabilidad Social
+- Confianza
+- Integridad
+- Solidaridad
+- Compromiso
+- Transparencia
+- Vocación de servicio
+- Responsabilidad Social
 
 ---
 
@@ -50,7 +50,7 @@ Permite realizar pagos en pesos en un tiempo máximo de 15 minutos:
 
 ### [Banca Seguros](https://www.arap.com.do/service/banca-seguros/)
 📚 Ofrecemos seguros para:
-- 🎮 Desempleo involuntario
+- 👨‍💼 Desempleo involuntario
 - 🏥 Incapacidad total o temporal
 - 👨‍👩‍👦 Seguro de vida sobre deudores
 - 🔥 Incendios y líneas aliadas
